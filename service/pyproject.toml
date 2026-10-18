@@ -6,3 +6,5 @@ dependencies = []
 
 [tool.vercel]
 entrypoint = "server.main:app"
+
+# update
