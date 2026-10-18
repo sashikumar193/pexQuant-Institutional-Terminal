@@ -1,2 +1,8 @@
+[project]
+name = "ai-trader-service"
+version = "0.1.0"
+description = "AI Trader FastAPI Service"
+dependencies = []
+
 [tool.vercel]
 entrypoint = "server.main:app"
