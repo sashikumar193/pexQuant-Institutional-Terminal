@@ -5,4 +5,4 @@ description = "AI Trader FastAPI Service"
 dependencies = []
 
 [tool.vercel]
-entrypoint = "server.main:app"
+entrypoint = "main:app"
